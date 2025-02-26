@@ -1,4 +1,8 @@
 
+## Project Overview
+
+This project aims to perform sentiment analysis on customer reviews from the Brazilian E-Commerce Public Dataset by Olist. Using Exploratory Data Analysis (EDA) and Machine Learning (ML). We analyze customer feedback to understand sentiment trends and improve customer experience.
+
 ## Dataset
 
 Source: Kaggle (Brazilian E-Commerce Public Dataset by Olist)
