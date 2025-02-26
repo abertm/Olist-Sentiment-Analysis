@@ -11,11 +11,16 @@ Source: Kaggle (Brazilian E-Commerce Public Dataset by Olist)
 
 Key Files:
 
-olist_orders_dataset.csv – Order details
-olist_order_reviews_dataset.csv – Customer reviews
-olist_products_dataset.csv – Product information
-olist_sellers_dataset.csv – Seller details
-olist_order_payments_dataset.csv – Payment details
+olist_customers_dataset.csv,
+olist_geolocation_dataset.csv,
+olist_order_items_dataset.csv,
+olist_order_payments_dataset.csv,
+olist_order_reviews_dataset.csv,
+olist_orders_dataset.csv,
+olist_products_dataset.csv,
+olist_sellers_dataset.csv,
+olist_category_name_dataset.csv
+
 
 ## Project Workflow
 
