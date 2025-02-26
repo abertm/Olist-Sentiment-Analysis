@@ -1,2 +1,3 @@
 # Olist-Sentiment-Analysis
-Explorar y limpiar datos para crear un modelos de sentimiento y determinar cómo los consumidores perciben la marca, los productos y el servicio de la empresa.
+
+Explore and clean data to create a sentiment analisis to determine how consumers percive Olist and the services they offer. 
