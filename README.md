@@ -46,6 +46,22 @@ Train classifiers (Logistic Regression, Random Forest, LSTM, etc.)
 
 Evaluate model performance using accuracy, precision, recall, and F1-score
 
+## Results & Insights
+
+- Distribution of customer sentiment
+
+- Key factors affecting sentiment trends
+
+- Model performance evaluation
+
+## Future Improvements
+
+- Fine-tune deep learning models
+
+- Deploy as a web app for real-time analysis
+
+- Expand to multilingual sentiment analysis
+
 ## Contributors
 
 Bárbara Gamarra,
