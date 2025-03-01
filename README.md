@@ -77,7 +77,6 @@ tensorflow
 
 Bárbara Gamarra,
 Gabriel Cordoba,
-Macarena Mandalari,
 Andrés Bertero
 
 
