@@ -42,7 +42,7 @@ Visualize key insights using graphs
 
 3. Machine Learning Model
 
-Train classifiers (Logistic Regression, Random Forest, LSTM, etc.)
+Train classifiers (Logistic Regression, Random Forest, LSTM)
 
 Evaluate model performance using accuracy, precision, recall, and F1-score
 
